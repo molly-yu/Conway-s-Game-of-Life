@@ -1,12 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+The Game of Life, also known simply as Life, is a cellular automaton devised by British mathematician J.H. Conway in 1970. The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. It follows a particular set of rules, allowing the game to progress differently with changing initial states, possibly continuing infinitely.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Conway's Game of Life
+HOW TO START THIS PROJECT: Run .jar executable file.
+AUTHORS: Molly Yu
